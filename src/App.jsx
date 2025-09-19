@@ -176,7 +176,7 @@ function App({ theme, setTheme }) {
     };
 
     return (
-        <div>
+        <div id="app" className="app">
             {/* <Navbar /> */}
             <div className="form-div">
                 <div className="form-container">

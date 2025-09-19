@@ -34,8 +34,12 @@ body {
     scroll-behavior: smooth;
     line-height: 1.6;
     overflow-x: hidden;
-    min-height: 100vh;
+    /* min-height: 100vh; */
     transition: var(--transition);
+}
+
+.app {
+    min-height: 78vh;
 }
 
 hr {
