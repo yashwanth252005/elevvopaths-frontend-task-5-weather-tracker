@@ -4,7 +4,7 @@ import './../../src/index.css'
 export default function Footer() {
     return (
         <footer className="footer">
-            <p>created by <a href="https://in.linkedin.com/in/yashwanth-es" target="_blank" rel="noopener noreferrer">Yashwanth E S</a></p>
+            <p>created by <a href="https://in.linkedin.com/in/yashwanth-es" target="_blank" rel="noopener noreferrer" style={{ color: "white", textDecoration: "underline" }}>Yashwanth E S</a></p>
             <p>Weather Tracker &copy; 2025</p>
             <p>powered by OpenWeather</p>
         </footer>
