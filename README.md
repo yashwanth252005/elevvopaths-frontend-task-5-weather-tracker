@@ -1,12 +1,39 @@
-# React + Vite
+# elevvopaths-frontend-task-7-WeatherDashboard  
+# 🌦️ Real-Time Weather Dashboard  
+Elevvo Paths Task-5 : This is a **HTML, CSS, and JavaScript with React.js** based project developed to complete Task-5 as part of the **Elevvo Paths Internship**.  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+The project is a clean and responsive weather dashboard that integrates with the **OpenWeatherMap API** to provide real-time weather data.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 Features  
+- 🌍 **Multi-city search** – check weather for any city worldwide  
+- 🌡️ **Real-time weather updates** – temperature, conditions, and weather icons  
+- 📅 **3-day forecast display** – upcoming weather trends  
+- 🔄 **Loading states** for better user experience  
+- 📍 **Auto-detect user location** and fetch live weather data  
+- 🖥️ **Clean and minimal UI** optimized for all devices
+- **integrated dark and light mode**
+- **locally stored data**
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack  
+- **HTML5** (semantic structure)  
+- **CSS3** (responsive design)  
+- **JavaScript (ES6)** for API calls and interactivity
+- **React.js - front end framework**
+- **OpenWeatherMap API** (real-time weather data)  
+- **Axios / Fetch API** for HTTP requests  
+
+---
+
+## 🎥 Demo Video  
+👉 [Click here to watch the demo](https://ik.imagekit.io/h6z8c1dwm/Screen%20Recording%202025-09-19%20222302%20(1).mp4?updatedAt=1758301609349)  
+
+---
+
+## 🔗 Repository  
+👉 [GitHub Repo Link](https://github.com/yashwanth252005/elevvopaths-frontend-task-5-weather-tracker)  
+
+---
