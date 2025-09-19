@@ -1,5 +1,4 @@
 import React from 'react'
-import './Navbar.css'
 import './../../src/index.css'
 
 export default function Navbar({ theme, onToggleTheme }) {
